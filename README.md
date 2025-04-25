@@ -1,5 +1,5 @@
 # Assignment 3
-This i3 repository contains an application used to visualize an information system, specifically, the city of New York's open environmental data set on its air quality.
+This repository contains an application used to visualize an information system, specifically, the city of New York's open environmental data set on its air quality.
 
 Data source: https://catalog.data.gov/dataset/air-quality
 
