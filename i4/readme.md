@@ -1,9 +1,11 @@
 # Assignment 4
 This repository contains an application made up of python functions used to access three different information structures, or file types, and print out a sample of the information.
 
-Data sources: 
+## Data sources: 
 csv - https://data.cdc.gov/Health-Consequences-and-Costs/Smoking-Attributable-Mortality-Morbidity-and-Econo/ezab-8sq5/data_preview
+
 json - https://catalog.data.gov/dataset/air-quality
+
 xls - https://catalog.data.gov/dataset/harmonized-tariff-schedule-of-the-united-states-2024
 
 ## Application Instructions
