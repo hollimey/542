@@ -4,7 +4,7 @@ This repository contains an application made up of python functions used to acce
 ## Data sources
 csv - https://data.cdc.gov/Health-Consequences-and-Costs/Smoking-Attributable-Mortality-Morbidity-and-Econo/ezab-8sq5/data_preview
 
-json - https://catalog.data.gov/dataset/air-quality
+parquet - https://aws.amazon.com/marketplace/pp/prodview-zhoy3xoyl6qbs?sr=0-9&ref_=beagle&applicationId=AWSMPContessa#resources
 
 xls - https://catalog.data.gov/dataset/harmonized-tariff-schedule-of-the-united-states-2024
 
